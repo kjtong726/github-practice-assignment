@@ -1,0 +1,6 @@
+﻿Variable Name ,Description ,Variable Type ,Units 
+Date ,Date in which the data was collected ,Date ,n/a
+Species ,two letter indication of species ,species type,n/a
+Site ,plots where organisms were captured from ,sites 1-20 ,numbered 
+Sex ,Sex of the organisim captured ,F/M ,n/a
+Weight ,Weight collected of the captured specimen ,organisms' varied weight in grams , (g)
